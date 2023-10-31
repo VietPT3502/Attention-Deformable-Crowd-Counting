@@ -1,0 +1,8 @@
+
+# one of 'batch_norm' or 'layer_norm'
+norm_typ: 'batch_norm'
+BN_MOM: 0.9
+SyncBN_MOM: 3e-4
+# Hamburger Parameters
+ham_channels: 512
+put_cheese: True
